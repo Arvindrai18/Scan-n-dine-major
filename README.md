@@ -171,3 +171,4 @@ The author of scan & dine is <a href="https://github.com/Sukh767" target="_blank
   * Frontend contributor
     * <a href="https://github.com/Sukh767" target="_blank">Sukhranjan Jana</a>
     * <a href="https://github.com/SoumyaT007" target="_blank">Soumya Pramanik</a>
+    * <a href="https://github.com/Arvindrai18" target="_blank">Arvind Rai</a>
